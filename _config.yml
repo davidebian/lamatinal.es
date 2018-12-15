@@ -1,0 +1,42 @@
+# Site
+name: "CocinaLibre"
+description: "La cocina fácil para disfrutar cocinando y comiendo"
+meta_description: "cocina libre"
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/logo.png'
+url: https://localhost/
+#google_analytics: 'UA-46278016-1'
+disqus: 'cocinalibre'
+#mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+
+# Authors
+authors:
+  David:
+    name: David
+    display_name: David
+    gravatar: e56154546cf4be74e393c62d1ae9f9d4
+    email: cocinalibre.github.io@gmail.com
+    web: https://www.cocinalibre.github.io
+    twitter: https://twitter.com/davidebian
+    description: "Autor de cocinalibre.github.io."
+  
+# Plugins
+plugins: 
+  - jekyll-paginate
+  - jekyll-archives
+    
+# Archives
+jekyll-archives:
+  enabled:
+    - categories
+  layout: archive
+  permalinks:
+    category: '/category/:name/'
+    
+# Pagination 
+paginate: 6
+paginate_path: /page:num/
+    
+# Other
+markdown: kramdown
+highlighter: rouge
