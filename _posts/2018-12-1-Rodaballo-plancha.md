@@ -4,8 +4,6 @@ title:  "Rodaballo a la plancha con cachelos y ensalada"
 author: David
 categories: [ pescados ]
 image: assets/images/rodaballo.jpg
-featured: true
-hidden: true
 ---
 
 Ndjkasjk djksajdkjaskdjaskdjasdjkas

@@ -4,7 +4,6 @@ title:  "Pulpo á Feira"
 author: David
 categories: [ pescados, mariscos ]
 image: assets/images/18.jpg
-featured: true
 comment: true
 ---
 jdsfñksjdfñksdflñsdf
