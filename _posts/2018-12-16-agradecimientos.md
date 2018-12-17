@@ -5,7 +5,8 @@ author: David
 image: /assets/images/colabora.jpg
 categories: [ consejos, destacado ]
 featured: true
-comment: true
+hidden: true
+comments: true
 ---
 # ¿Para quién va dirigido esto? ¿Puedo empezar sin saber prácticamente nada de cocina?
 
