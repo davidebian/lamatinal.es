@@ -13,6 +13,10 @@
 <lastmod>2018-12-16T00:00:00+01:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/huevos/2018/12/17/Tortilla-espa%C3%B1ola.html</loc>
+<lastmod>2018-12-17T00:00:00+01:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/about.html</loc>
 </url>
 <url>
@@ -29,5 +33,8 @@
 </url>
 <url>
 <loc>http://localhost:4000/category/destacado/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/category/huevos/</loc>
 </url>
 </urlset>
