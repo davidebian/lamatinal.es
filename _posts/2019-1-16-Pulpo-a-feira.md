@@ -2,7 +2,7 @@
 layout: post
 title:  "Pulpo á Feira"
 author: David
-categories: [ pescados, mariscos ]
+tags: [ mar, pulpo ]
 img: 18.jpg
 comment: true
 ---

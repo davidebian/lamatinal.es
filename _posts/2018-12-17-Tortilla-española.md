@@ -1,9 +1,8 @@
 ---
 layout: post
 title:  Tortilla Española
-author: David
-categories: huevos 
-tags: huevos
+author: David 
+tags: [ huevos ]
 img: tor-presenta-opti.jpeg
 author: David # Add name author (optional)
 ---

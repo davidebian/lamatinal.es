@@ -3,16 +3,24 @@
     {
       "title"    : "Pulpo á Feira",
       "category" : "",
-      "tags"     : "",
-      "url"      : "/pescados/mariscos/2019/01/16/Pulpo-a-feira.html",
+      "tags"     : "mar, pulpo",
+      "url"      : "/2019/01/16/Pulpo-a-feira.html",
       "date"     : "2019-01-16 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Bacalao al horno con patatas panaderas",
+      "category" : "",
+      "tags"     : "pescados, horno",
+      "url"      : "/2019/01/11/Bacalao-horno.html",
+      "date"     : "2019-01-11 00:00:00 +0100"
     } ,
   
     {
       "title"    : "Tortilla Española",
       "category" : "",
       "tags"     : "huevos",
-      "url"      : "/huevos/2018/12/17/Tortilla-espa%C3%B1ola.html",
+      "url"      : "/2018/12/17/Tortilla-espa%C3%B1ola.html",
       "date"     : "2018-12-17 00:00:00 +0100"
     } ,
   
