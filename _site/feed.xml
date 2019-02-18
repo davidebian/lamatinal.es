@@ -6,9 +6,60 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 18 Jan 2019 11:30:32 +0100</pubDate>
-    <lastBuildDate>Fri, 18 Jan 2019 11:30:32 +0100</lastBuildDate>
+    <pubDate>Mon, 18 Feb 2019 12:43:05 +0000</pubDate>
+    <lastBuildDate>Mon, 18 Feb 2019 12:43:05 +0000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Bizcocho clásico</title>
+        <description>&lt;hr /&gt;
+
+&lt;h2 id=&quot;ingredientes-para-4-personas&quot;&gt;Ingredientes para 4 personas&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;4 huevos&lt;/li&gt;
+  &lt;li&gt;3 medidas harina&lt;/li&gt;
+  &lt;li&gt;2 medidas de azúcar blanco&lt;/li&gt;
+  &lt;li&gt;1 yogurt natural&lt;/li&gt;
+  &lt;li&gt;Rayadura de limón&lt;/li&gt;
+  &lt;li&gt;1 sobre de levadura Royal&lt;/li&gt;
+  &lt;li&gt;1 medida de aceite de oliva virgen&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;preparándolo-todo&quot;&gt;Preparándolo todo&lt;/h2&gt;
+&lt;p&gt;Como referencia de las medidas a usar ten en cuenta esto:&lt;/p&gt;
+
+&lt;p&gt;**1 medida = 1 envase de yogur&lt;/p&gt;
+
+&lt;p&gt;Pon el horno a calentar a 180º con calor arriba y abajo pero sin ventilador (en caso de que tu horno lo tenga) para que esté a punto cuando terminemos la mezcla.&lt;/p&gt;
+
+&lt;p&gt;Bate los huevos con una varilla mezcladora y echa todos los ingredientes en las medidas descritas antes en un bol, el único con el que debes pararte y prestar más atención es con la harina. Mi consejo es que la “tamices” usando un colador de metal, para de este modo evitar las bolitas.&lt;/p&gt;
+
+&lt;p&gt;Mezcla bien todo con la batidora hasta conseguir un mezcla uniforme sin grumos.
+Unta el molde con mantequilla para que no le pegue y sea más fácil el desmolde del mismo.&lt;/p&gt;
+
+&lt;p&gt;Sólo te queda verter la masa en el molde y meterlo en el horno. Cuando lleve unos 30-35 minutos abre el horno y con un palillo grande de cocina pínchalo para ver si está echo. El punto es aquel en el que el palillo no se le queda masa pegada. Además te guiarás por el color doradito del bizcocho.
+Dependiendo del horno y de lo estable que sea el calor 35-45 minutos debería de estar listo.
+Cuando esté lo retiras del horno y lo dejas enfriar un poco para luego desmoldar y presentar…&lt;/p&gt;
+
+&lt;p&gt;A disfrutarlo!&lt;/p&gt;
+
+&lt;h2&gt;&lt;img src=&quot;/assets/img/bizcocho_cortado.jpg&quot; alt=&quot;bizcocho cortado&quot; /&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;Evidentemente esta es una receta para un bizcocho clásico con un toque al limón. Si por ejemplo eres fanático del chocolate siempre puedes utilizar cacao ó si prefieres ralladura de naranja, vamos, que puedes “personalizarlo” ;)&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 18 Feb 2019 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/2019/02/18/Bizcocho-clasico.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/02/18/Bizcocho-clasico.html</guid>
+        
+        <category>postres</category>
+        
+        <category>huevos</category>
+        
+        
+      </item>
     
       <item>
         <title>Pulpo á Feira</title>
@@ -58,7 +109,7 @@ Si te sobra cortas los brazos a lo largo y separalos de dos en dos con film, a s
 
 &lt;p&gt;&lt;em&gt;Quiźa pueda parecer una tontería, pero a mi me sabe el doble mejor comer el pulpo con palillo plano de madera de toda la vida. Deja a un lado los tenedores. Ah!, no olvides mojar una sopita de pan con los restos del aceite una vez termines el pulpo.&lt;/em&gt;&lt;/p&gt;
 </description>
-        <pubDate>Wed, 16 Jan 2019 00:00:00 +0100</pubDate>
+        <pubDate>Wed, 16 Jan 2019 00:00:00 +0000</pubDate>
         <link>http://localhost:4000/2019/01/16/Pulpo-a-feira.html</link>
         <guid isPermaLink="true">http://localhost:4000/2019/01/16/Pulpo-a-feira.html</guid>
         
@@ -118,7 +169,7 @@ Ahora pon los lomos en la bandeja encima de las patatas y al horno durante 25-30
 A esta receta le &lt;em&gt;pega&lt;/em&gt; mucho una coliflor cocida o brócoli por si quieres cuidar tu salud a tope.
 Quizá sean manías mías, pero &lt;strong&gt;en cazuela de barro este plato mejora un montón el sabor&lt;/strong&gt;&lt;/p&gt;
 </description>
-        <pubDate>Fri, 11 Jan 2019 00:00:00 +0100</pubDate>
+        <pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate>
         <link>http://localhost:4000/2019/01/11/Bacalao-horno.html</link>
         <guid isPermaLink="true">http://localhost:4000/2019/01/11/Bacalao-horno.html</guid>
         
@@ -171,7 +222,7 @@ Mezcla las patatas con los huevos, ayudándote de un tenedor; aquí se trata de 
 &lt;p&gt;Una vez lo tengas mezclado estás en el momento clave. Echalo a la sartén cuando el pelín de aceite de oliva que echamos esté lo bastante caliente, sin llegar a humear y quemarse. Cuando lo echemos empezará a cuajarse bastante rápido, bajamos el fuego al mínimo. La dejamos unos 3 minutos y damos la vuelta ayudándonos de un plato o “viradera” de plástico. Luego esto ya va al gusto. A mí me gusta algo suelta como en Betanzos. Esto es al gusto…&lt;/p&gt;
 
 </description>
-        <pubDate>Mon, 17 Dec 2018 00:00:00 +0100</pubDate>
+        <pubDate>Mon, 17 Dec 2018 00:00:00 +0000</pubDate>
         <link>http://localhost:4000/2018/12/17/Tortilla-espa%C3%B1ola.html</link>
         <guid isPermaLink="true">http://localhost:4000/2018/12/17/Tortilla-espa%C3%B1ola.html</guid>
         
@@ -236,7 +287,7 @@ Ahora simplemente calienta tu plancha doméstica o industrial o en su defecto un
 
 &lt;p&gt;Si mezclas en un biberon de cocina aceite de oliva virgen extra, perejil fresco picado muy fino, unos ajos laminados, mezclas bien agitándolo  y luego lo pones en el rodaballo el sabor es magnífico!&lt;/p&gt;
 </description>
-        <pubDate>Sat, 01 Dec 2018 00:00:00 +0100</pubDate>
+        <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
         <link>http://localhost:4000/2018/12/01/Rodaballo-plancha.html</link>
         <guid isPermaLink="true">http://localhost:4000/2018/12/01/Rodaballo-plancha.html</guid>
         
@@ -270,7 +321,7 @@ Especial mención para mi requiere el creador de uno de esos lugares digitales, 
   &lt;p&gt;“Un viaje de 1000 millas, comienza con un primer paso” - Lao-Tse&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
-        <pubDate>Thu, 01 Nov 2018 00:00:00 +0100</pubDate>
+        <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
         <link>http://localhost:4000/2018/11/01/agradecimientos.html</link>
         <guid isPermaLink="true">http://localhost:4000/2018/11/01/agradecimientos.html</guid>
         
