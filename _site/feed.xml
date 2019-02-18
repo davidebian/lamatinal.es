@@ -6,9 +6,56 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 18 Feb 2019 12:43:05 +0000</pubDate>
-    <lastBuildDate>Mon, 18 Feb 2019 12:43:05 +0000</lastBuildDate>
+    <pubDate>Mon, 18 Feb 2019 13:36:45 +0000</pubDate>
+    <lastBuildDate>Mon, 18 Feb 2019 13:36:45 +0000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Caldeirada de Raia</title>
+        <description>&lt;hr /&gt;
+
+&lt;h2 id=&quot;para-2-personas&quot;&gt;Para 2 personas&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;1kg de raya&lt;/li&gt;
+  &lt;li&gt;4 patatas grandes&lt;/li&gt;
+  &lt;li&gt;1 cebolla grande&lt;/li&gt;
+  &lt;li&gt;2 dientes de ajo&lt;/li&gt;
+  &lt;li&gt;1 trozo de unto de cerdo&lt;/li&gt;
+  &lt;li&gt;Aceite de oliva virgen extra&lt;/li&gt;
+  &lt;li&gt;Sal gorda o en escamas&lt;/li&gt;
+  &lt;li&gt;Pimentón de la vera dulce&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;comenzando-la-cocción&quot;&gt;Comenzando la cocción&lt;/h2&gt;
+
+&lt;p&gt;Elegimos una olla mediana y la llenamos un poco mas de la mitad de agua. Echamos sal gorda al gusto para hacer la cocción. Empezamos con las patatas, mételas en el agua junto al trozo de unto y la cebolla pelada y cortada en 4 trozos, no es necesario que esté hirviendo, cuando empiece a hacerlo cuenta 5 minutos. En este tiempo corta la raya en 4 trozos si no la tenias ya lista.
+Echa la raya y cuécela 5-6 minutos. En este punto deberías teer al punto la raya y las patatas. Apagas el fuego y dejas reposar 3-4 minutos durante los cuales haremos la “allada” o ajada.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/cociendo.jpg&quot; alt=&quot;cociendo&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;haciendo-la-allada&quot;&gt;Haciendo la “allada”&lt;/h2&gt;
+
+&lt;p&gt;En una sartén pequeña a fuego medio echa un vaso pequeño de aceite de oliva virgen extra, mientras caliente coge los dientes de ajo con la piel y aplástalos con una cuchara contra la encimera. Échalos al aceite y controla que se hagan despacio sin llegar a quemarse (no queremos que sepa a ajo quemado). Con unos 5 minutos lo tendrás listo.
+Ahora retiras del calor la sartén y dejamos que enfríe un poco. Cuando esté templado echamos dos cucharaditas de pimentón dulce de la Vera y removemos bien todo.
+&lt;img src=&quot;/assets/img/allada.jpg&quot; alt=&quot;allada&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;montando-el-plato&quot;&gt;Montando el plato&lt;/h2&gt;
+
+&lt;p&gt;Monta las patatas y la raya escurriendo bien el agua y termínala con la “allada” por encima. Si lo consideras pon unas escamas de sal… y … A comer!!&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;También puedes acompañar este plato de guisantes y brócoli o coliflor poniendo todo a cocer al mismo tiempo que las patatas&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 18 Feb 2019 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/2019/02/18/Raya-gallega.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/02/18/Raya-gallega.html</guid>
+        
+        <category>pescados</category>
+        
+        
+      </item>
     
       <item>
         <title>Bizcocho clásico</title>
@@ -31,7 +78,7 @@
 &lt;h2 id=&quot;preparándolo-todo&quot;&gt;Preparándolo todo&lt;/h2&gt;
 &lt;p&gt;Como referencia de las medidas a usar ten en cuenta esto:&lt;/p&gt;
 
-&lt;p&gt;**1 medida = 1 envase de yogur&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1 medida = 1 envase de yogur&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;Pon el horno a calentar a 180º con calor arriba y abajo pero sin ventilador (en caso de que tu horno lo tenga) para que esté a punto cuando terminemos la mezcla.&lt;/p&gt;
 
